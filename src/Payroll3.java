@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Payroll2 {
+public class Payroll3 {
     public static void main(String[] args) {
 
         String firstName, lastName;
@@ -38,5 +38,6 @@ public class Payroll2 {
         System.out.println("Tax deducted: " + deductions);
 
         System.out.println("Net pay: " + net_pay);
+
     }
 }
