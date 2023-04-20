@@ -38,5 +38,9 @@ public class Payroll2 {
         System.out.println("Tax deducted: " + deductions);
 
         System.out.println("Net pay: " + net_pay);
+
+        System.out.println("Hello World 5");
+
+        System.out.println("Hello World 6");
     }
 }
