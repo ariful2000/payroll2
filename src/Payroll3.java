@@ -39,7 +39,7 @@ public class Payroll3 {
 
         System.out.println("Net pay: " + net_pay);
 
-        System.out.println("Hello World 100");
+        System.out.println("Hello World 1000");
 
     }
 }
